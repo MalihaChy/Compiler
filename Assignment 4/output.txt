@@ -1,0 +1,34 @@
+Line 3 --> error: Extra semicolon found
+
+Line 3 --> error: Extra semicolon found
+
+Line 5 --> error: Duplicate Keyword Token Found
+
+Line 7 --> error: Extra semicolon found
+
+Line 8 --> error: Duplicate Operator Token Found
+
+Line 8 --> error: Extra/Unmatched } found
+
+Line 9 --> error: else without a previous if
+
+Line 10 --> error: Extra/Unmatched } found
+
+Line 12 --> error: Extra/Unmatched ) found
+
+Line 13 --> error: Single/Unmatched { found
+
+Line 13 --> error: Single/Unmatched { found
+
+Line 13 --> error: Single/Unmatched { found
+
+Line 15 --> error: Duplicate Identifier Found
+
+Line 16 --> error: Duplicate Identifier Found
+
+Line 17 --> error: Single/Unmatched ( found
+
+Line 18 --> error: Extra semicolon found
+
+Line 18 --> error: Inside for loop, a semicolon is expected
+
